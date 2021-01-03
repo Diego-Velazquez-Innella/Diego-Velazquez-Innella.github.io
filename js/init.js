@@ -185,6 +185,19 @@ var eric = function (){
 	});
 	/*Typed js end*/
 	
+	/*Typed js start*/
+	$("#typed2").typed({
+		strings: ["^2100&nbsp;Técnico Electricista.<br/>CNC Programador de Código G. "],
+		typeSpeed: 30,
+		backDelay: 750,
+		loop: false,
+		cursorChar: "|",
+		contentType: 'html', // or text
+		// defaults to false for infinite loop
+		loopCount: false
+	});
+	/*Typed js end*/
+	
 	/*Client carousel start*/
 	$('#client_sec .client-carousel').owlCarousel({
 		loop:true,

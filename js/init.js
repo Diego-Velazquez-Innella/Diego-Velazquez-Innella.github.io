@@ -187,7 +187,7 @@ var eric = function (){
 	
 	/*Typed js start*/
 	$("#typed2").typed({
-		strings: ["^2100&nbsp;Técnico Electricista.<br/>CNC Programador de Código G. "],
+		strings: ["^2100&nbsp;Técnico Electricista.<br/>CNC Programador Código G. "],
 		typeSpeed: 30,
 		backDelay: 750,
 		loop: false,
